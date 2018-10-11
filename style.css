@@ -1,0 +1,142 @@
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+body {
+	background-color: #FFFFFF;
+	margin:0;
+	padding: 0; 
+	font-family: 'Poppins', sans-serif;
+}
+.header {
+	display: inline-block;
+	grid-template-columns: 1fr;
+	background-color: #202124;
+	height: 2.7em;
+	width: 100%;
+	opacity: .96;
+	text-align: center;
+	color: #FFFFFF;
+	align-items: center;
+	position:fixed;
+
+}
+.header div span{
+	padding-right: 3em;
+	padding-left: 3em; 
+}
+.header div span:hover {
+	color: #757575;
+}
+.img1container{
+	text-align: center;
+	color: #1111111;
+	padding-top: 8em;
+}
+#x {
+	font-size: 55px;
+	font-weight: 900;
+
+}
+#Xhello {
+	margin-top: 1em;
+	font-size: 30px;
+	font-weight: 500;
+}
+#pic1{
+	height: 700px;
+	width: auto;
+}
+
+
+.watchcontainer {
+	text-align: center;
+	
+	margin-top: 1em;
+
+	
+}
+#imagination{
+	font-size: 55px;
+	font-weight: 700;
+
+}
+#shopwatch {
+	font-size: 28px;
+	font-weight: 500;
+}
+#watch1{
+	width:1400px;
+}
+
+.macgrid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-row-gap: 1em;
+	grid-column-gap:1px;
+
+
+}
+
+.imac {
+	text-align: center;
+	background-color: #1A1A1A;
+	color: #FAFAFA;
+	
+}
+
+#imac{
+	margin-top: 1em;
+
+}
+#mac1{
+
+	
+}
+.headtext{
+	font-weight: 700;
+	font-size: 40px;
+	padding-top: 1.25em;
+}
+
+.subheadtext {
+	font-size: 20px;
+	font-weight: 200; 
+}
+
+.iphone8{
+	text-align: center;
+	background-color: #212121;
+	color: #FAFAFA;	
+
+
+}
+#iphone8img{
+	height: 600px;
+	width: 600px;
+}
+
+
+
+}
+.iwatch{
+	text-align: center;
+	font-size: 40px;	
+}
+
+#iwatchimg{
+	height: 500px;
+}
+
+.fourk{
+	background-color: #212121;
+	text-align:center;
+	color:#FAFAFA;
+	font-size: 30px;
+	height: 600px;
+
+}
+#tv{
+	height: 500px;
+	width:600px;
+}
